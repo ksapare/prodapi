@@ -1,0 +1,6 @@
+insert into category (category_id, category_name, category_description) values (001, 'Appliances', 'A device or piece of equipment designed to perform a specific task, typically a domestic one.');
+insert into category (category_id, category_name, category_description) values (002, 'Electrical', 'Device operating by or producing electricity.');
+insert into category (category_id, category_name, category_description) values (003, 'Paint', 'A colored substance which is spread over a surface and dries to leave a thin decorative or protective coating');
+insert into category (category_id, category_name, category_description) values (004, 'Hardware', 'Machinery, and other durable equipment.');
+insert into category (category_id, category_name, category_description) values (005, 'Tools', 'Device or implement, especially one held in the hand, used to carry out a particular function.');
+insert into category (category_id, category_name, category_description) values (006, 'Plumbing', 'The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building.');
